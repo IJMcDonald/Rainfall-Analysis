@@ -4,7 +4,7 @@
 ################################################################################################
 ################################################################################################
 
-#Last Updated:** _June 28, 2024
+#Last Updated: June 28, 2024
 
 #This Python script generates a comprehensive Excel report encompassing various rainfall data
 #analyses and visualisations.
